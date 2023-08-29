@@ -1,2 +1,0 @@
-# sogabe
-- age: 15
