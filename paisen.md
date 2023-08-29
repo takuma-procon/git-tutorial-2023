@@ -1,0 +1,2 @@
+#paisen
+-age:17
