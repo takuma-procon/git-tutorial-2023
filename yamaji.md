@@ -1,0 +1,2 @@
+# yamaji
+- age: 22
